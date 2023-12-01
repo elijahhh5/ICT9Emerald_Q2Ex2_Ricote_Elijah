@@ -1,0 +1,24 @@
+h1 {
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+#topic1 {
+	background-color: maroon ;
+	color: white;
+	font-family: Arial, sans-serif;
+	text-align: center;
+
+}
+#topic2 {
+	background-color: black;
+	color: white;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+#topic3 {
+	background-color: orangered;
+	color: white;
+	font-family: Arial, sans-serif;
+	text-align: center;
+
+}
